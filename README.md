@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Milton-Kip
 - 👀 I’m passionate about Software Development and love crafting efficient and innovative solutions.
 - 🌱 I’m currently diving into Java, Spring Boot, and Cloud Technologies.
-- 💞️  I’m looking to collaborate on open-source projects and building tools that make developers' lives easier.
 - 📫 Reach me at andydev.kipyegon@gmail.com or connect with me on www.linkedin.com/in/kipyegon-m-429060180
 - ⚡ Fun fact: When I’m not coding, you’ll find me exploring solitaire, tinkering with IoT devices, or dreaming up ideas for my next project!
 
